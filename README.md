@@ -6,7 +6,8 @@ This repo contains a security audit of the `CharityVault.sol` smart contract, wh
 
 The exploit was verified using a custom attacker contract and a Foundry test case.
 
-🔗 📎 **[Audit Report – CharityVault (PDF)](./Charity-Vault-Audit-Report)**
+📄 [View Full Audit Report (PDF)](./%F0%9F%93%9DCharity%20Vault%20Audit%20Report.pdf)
+
 
 
 ---
